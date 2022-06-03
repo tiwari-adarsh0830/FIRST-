@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tiwari-adarsh0830
 - 👀 I’m interested in data science and Machine learning
 - 🌱 I’m currently learning machine learning algorithms
-- 💞️ I’m looking to collaborate on projects based on data science and Machine learning
+- 💞️ I’m looking to collaborate on the projects based on data science and Machine learning
 - 📫 Reach me via my LinkedIn profile 
 https://www.linkedin.com/in/adarsh-tiwari-3a055422b
 <!---
